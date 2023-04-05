@@ -10,4 +10,5 @@ scripts/auto_gpt_workspace/*
 last_run_ai_settings.yaml
 outputs/*
 
+myenv
 venv

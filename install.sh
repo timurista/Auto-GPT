@@ -1,4 +1,4 @@
 # !/bin/bash
-source ./venv/bin/activate
+source myenv/bin/activate
 
 pip install -r requirements.txt
