@@ -15,3 +15,5 @@ venv
 outputs/*
 ai_settings.yaml
 auto_gpt_workspace
+.vscode
+auto-gpt.json
