@@ -27,7 +27,7 @@ def evaluate_code(code: str) -> List[str]:
 
 def improve_code(suggestions: List[str], code: str) -> str:
     """
-    A function that takes in code and suggestions and returns a response from create chat completion api call. 
+    A function that takes in code and suggestions and returns a response from create chat completion api call.
 
     Parameters:
         suggestions (List): A list of suggestions around what needs to be improved.
@@ -44,8 +44,6 @@ def improve_code(suggestions: List[str], code: str) -> str:
 
     result_string = call_ai_function(function_string, args, description_string)
     return result_string
-
-
 
 def write_tests(code: str, focus: List[str]) -> str:
     """
