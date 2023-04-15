@@ -1,8 +1,9 @@
 ai_goals:
-- Read the draft ai_marketplace.txt
-- Research 2 articles on each area and provide more details on how to get started. Each section should be 200 words at least
+- Read the draft types_chatbots.txt
+- Research 2 articles on each area and provide more details on how to get started with the section. Each section should be 200 words at least
 - Edit the blog article for short clear sentences that can be read by an 8th grader
-- Auto shut down when the article is at least 500 words write it to ai_marketplace_full.txt file
+- make sure the article is at least 800 words write it as the file types_chatbots_full.txt
+- Auto shut down when the article is complete
 
 ai_name: BlogWriter-GPT
 ai_role: an AI designed to autonomously research and write blog articles on new ways
